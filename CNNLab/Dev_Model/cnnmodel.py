@@ -59,7 +59,7 @@ predictions = probability_model.predict(test_images)
 
 
 # Save the Model
-model.save(r'C:\Users\redat\PycharmProjects\CNNFashionMnist\CNNLab\Deploy_Model\static\model\HatimCNNModel.h5')
+model.save(r'C:\Users\redat\PycharmProjects\CNNFashionMnist\CNNLab\Deploy_Model\static\model\HatimCNNModelfotTFL.py')
 print('Model saved successfully !')
 
 
